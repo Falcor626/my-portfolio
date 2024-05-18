@@ -40,7 +40,7 @@ export default function Works() {
                         <li>This website was a school group project that demos a Quiz App which contains 3 types of quizzes that you can try on.</li>
                         <li>This website uses HTML, CSS, and JavaScript.</li>
                         <li>
-                            <a href="chooseQuiz.html" className="underline hover:text-blue-700">Link to the Quiz App Project</a>
+                            <a href="https://falcor626.github.io/quizApp/" className="underline hover:text-blue-700">Link to the Quiz App Project</a>
                         </li>
                     </ul>
                 </div>
