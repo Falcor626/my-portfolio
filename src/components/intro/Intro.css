@@ -1,0 +1,38 @@
+.hello{
+    font-size: 100px;
+    margin-bottom: 16px;
+    color: #fbe9d0;
+}
+
+.blurb{
+    margin-bottom: 32px;
+    font-size: 30px;
+    line-height: 1.5;
+    color: #fbe9d0;
+}
+
+.worksBtn{
+    display: inline-block;
+    background-color: #e64833;
+    color: #fbe9d0;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-right: 16px;
+}
+
+.contactBtn{
+    display: inline-block;
+    background-color: #90aead;
+    color: #fbe9d0;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.circularBorder {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 500px; 
+    height: 500px; 
+  }
