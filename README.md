@@ -1,5 +1,5 @@
--Portfolio Website: https://falcor626.github.io/my-portfolio/
+-Portfolio Website (Deployed): https://falcor626.github.io/my-portfolio/ 
 
--Tic-Tac-Toe Project: https://falcor626.github.io/tictactoe/
+-Tic-Tac-Toe Project (Deployed): https://falcor626.github.io/tictactoe/
 
--QuizApp Project: chooseQuiz.html
+-QuizApp Project (Deployed): https://falcor626.github.io/quizApp/chooseQuiz.html
