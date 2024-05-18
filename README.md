@@ -1,4 +1,4 @@
--Portfolio Website: https://github.com/Falcor626/my-portfolio.git
+-Portfolio Website: https://falcor626.github.io/my-portfolio/
 
 -Tic-Tac-Toe Project: https://github.com/Falcor626/tictactoe.git
 
