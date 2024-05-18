@@ -21,7 +21,7 @@ export default function Works() {
                         <li>This website demos a simple game of Tic-Tac-Toe that you can play.</li>
                         <li>This is made out of React.</li>
                         <li>
-                            <a href="https://github.com/Falcor626/tictactoe.git" className="underline hover:text-blue-700">Link to the Tic-Tac-Toe Project</a>
+                            <a href="https://falcor626.github.io/tictactoe/" className="underline hover:text-blue-700">Link to the Tic-Tac-Toe Project</a>
                         </li>
                     </ul>
                 </div>
